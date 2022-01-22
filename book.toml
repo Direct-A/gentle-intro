@@ -1,7 +1,7 @@
 [book]
-title = "Rust 的绅士介绍"
+title = "Rust 简单介绍"
 description = "Rust语言，标准库和生态系统介绍"
-author = "Steve Donovan,(译:yobrave)"
+author = "Steve Donovan,(译:yobrave, direct-a)"
 language = "zh-CN"
 
 [build]

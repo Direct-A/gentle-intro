@@ -1,4 +1,4 @@
-# 绅士地介绍 Rust
+# Rust 的简单介绍
 
 ![Rust](PPrustS.png)
 

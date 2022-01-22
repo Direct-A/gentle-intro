@@ -1,19 +1,19 @@
-## 温柔的介绍 [![translate-svg]][translate-list]
+## 简单的介绍 [![translate-svg]][translate-list]
 
 [translate-svg]: http://llever.com/translate.svg
-[translate-list]: https://github.com/chinanf-boy/chinese-translate-list
+[translate-list]: https://github.com/Direct-A/chinese-translate-list
 
-对 `rust` 的 温柔 介绍 「翻译 」
+对 `rust` 的 简单 介绍 「翻译 」
 
 [中文](./readme.md) | [english](https://github.com/stevedonovan/gentle-intro)
 
 ## 使用
 
-翻译书-网址 https://chinanf-boy.github.io/gentle-intro
+翻译书-网址 https://Direct-A.github.io/gentle-intro
 
 > 欢迎 `Issue/Pull` ✋
 
-## 校对 ✅ 2019-3-3
+## 校对 ✅ 2022-1-21
 
 <!-- doc-templite START generated -->
 <!-- repo = 'stevedonovan/gentle-intro' -->
